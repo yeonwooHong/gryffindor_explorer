@@ -1,12 +1,13 @@
 # Gryffindor explorer - mobile
 
-Gryffindor Explorer is a mobile app that displays Harry Potter characters from Gryffindor using the [Harry Potter API](https://hpapi.onrender.com/api/characters/house/gryffindor)
-.
+Gryffindor Explorer is a mobile app that displays Harry Potter characters from Gryffindor using the [Harry Potter API](https://hpapi.onrender.com/api/characters/house/gryffindor).
 
 This project is built with:
 - Expo (React Native framework)
 - Redux (State management)
 - Firebase (Backend services)
+
+<br>
 
 ## 📱 Screens & Features
 ### 🏠 Home Screen <br>
@@ -34,6 +35,8 @@ This project is built with:
 
 <img src="images/fav.PNG" alt="Home" width="195" height="422">
 
+<br>
+
 ## 📂 Project Structure
 ```
 .
@@ -58,6 +61,7 @@ This project is built with:
     └── HomeScreen.js
 ```
 
+<br>
 
 ## 🚀 How to Run the Project
 ### 1️⃣ Set Up Firebase Configuration
