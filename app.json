@@ -1,11 +1,12 @@
 {
   "expo": {
-    "name": "task_redux_app",
-    "slug": "task_redux_app",
+    "name": "gryffindor_explorer",
+    "slug": "gryffindor_explorer",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",

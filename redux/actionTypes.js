@@ -1,0 +1,3 @@
+export const FETCH_CHARACTERS = "FETCH_CHARACTERS";
+export const FETCH_CHARACTER = "FETCH_CHARACTER";
+export const ADD_FAV = 'ADD_FAV';
